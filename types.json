@@ -1,0 +1,33 @@
+{
+    "types": [{
+        "id": 0,
+        "category": 0,
+        "name": "personal",
+        "description": "Fireworks intended for recreational use during holiday celebrations"
+    }, {
+        "id": 1,
+        "category": 0,
+        "name": "Mine",
+        "description": "Mines can project small reports, serpents, small shells, as well as just stars."
+    }, {
+        "id": 2,
+        "category": 0,
+        "name": "Cake",
+        "description": "A cake is a cluster of individual tubes linked by fuse that fires a series of aerial effects."
+    }, {
+        "id": 3,
+        "category": 1,
+        "name": "Salute",
+        "description": "A shell intended to produce a loud report rather than a visual effect."
+    }, {
+        "id": 4,
+        "category": 1,
+        "name": "Fish",
+        "description": "Inserts that propel themselves rapidly away from the shell burst, often looking like fish swimming away."
+    }, {
+        "id": 5,
+        "category": 1,
+        "name": "Spider",
+        "description": "A shell containing a fast burning tailed or charcoal star that is burst very hard so that the stars travel in a straight and flat trajectory before slightly falling and burning out. This appears in the sky as a series of radial lines much like the legs of a spider."
+    }]
+}

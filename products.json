@@ -1,0 +1,112 @@
+{
+    "products": [{
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+        "peony": {
+            "id": 1,
+            "type": 0,
+            "name": "Peony",
+            "description": "A spherical break of colored stars that burn without a tail effect. The peony is the most commonly seen shell type."
+        },
+        "chrysanthemum": {
+            "id": 2,
+            "type": 0,
+            "name": "Chrysanthemum",
+            "description": "A spherical break of colored stars, similar to a peony, but with stars that leave a visible trail of sparks."
+        },
+        "dahlia": {
+            "id": 3,
+            "type": 1,
+            "name": "Dahlia",
+            "description": "Essentially the same as a peony shell, but with fewer and larger stars."
+        },
+        "willow": {
+            "id": 4,
+            "type": 1,
+            "name": "Willow",
+            "description": "Long-burning silver or gold stars that produce a soft, dome-shaped weeping willow-like effect."
+        },
+        "palm": {
+            "id": 5,
+            "type": 1,
+            "name": "Palm",
+            "description": "A shell containing a relatively few large comet stars arranged in such a way as to burst with large arms or tendrils, producing a palm tree-like effect."
+        },
+        "sparklers": {
+            "id": 6,
+            "type": 2,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+        "peonysmth": {
+            "id": 7,
+            "type": 2,
+            "name": "Peony",
+            "description": "A spherical break of colored stars that burn without a tail effect. The peony is the most commonly seen shell type."
+        },
+        "chryhemum": {
+            "id": 8,
+            "type": 2,
+            "name": "Chrysanthemum",
+            "description": "A spherical break of colored stars, similar to a peony, but with stars that leave a visible trail of sparks."
+        },
+        "dhlia": {
+            "id": 9,
+            "type": 3,
+            "name": "Dahlia",
+            "description": "Essentially the same as a peony shell, but with fewer and larger stars."
+        },
+        "wilw": {
+            "id": 10,
+            "type": 3,
+            "name": "Willow",
+            "description": "Long-burning silver or gold stars that produce a soft, dome-shaped weeping willow-like effect."
+        },
+        "palma": {
+            "id": 11,
+            "type": 3,
+            "name": "Palm",
+            "description": "A shell containing a relatively few large comet stars arranged in such a way as to burst with large arms or tendrils, producing a palm tree-like effect."
+        },
+        "fairyrs": {
+            "id": 12,
+            "type": 4,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+        "pey": {
+            "id": 13,
+            "type": 4,
+            "name": "Peony",
+            "description": "A spherical break of colored stars that burn without a tail effect. The peony is the most commonly seen shell type."
+        },
+        "chrysanth": {
+            "id": 14,
+            "type": 4,
+            "name": "Chrysanthemum",
+            "description": "A spherical break of colored stars, similar to a peony, but with stars that leave a visible trail of sparks."
+        },
+        "daha": {
+            "id": 15,
+            "type": 5,
+            "name": "Dahlia",
+            "description": "Essentially the same as a peony shell, but with fewer and larger stars."
+        },
+        "wlow": {
+            "id": 16,
+            "type": 5,
+            "name": "Willow",
+            "description": "Long-burning silver or gold stars that produce a soft, dome-shaped weeping willow-like effect."
+        },
+        "palmus": {
+            "id": 17,
+            "type": 5,
+            "name": "Palm",
+            "description": "A shell containing a relatively few large comet stars arranged in such a way as to burst with large arms or tendrils, producing a palm tree-like effect."
+        }
+    }]
+}
